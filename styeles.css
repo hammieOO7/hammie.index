@@ -1,3 +1,4 @@
+/* รีเซ็ตค่าพื้นฐาน */
 * {
     margin: 0;
     padding: 0;
@@ -90,5 +91,4 @@ footer {
     .card {
         padding: 18px;
     }
-
 }
